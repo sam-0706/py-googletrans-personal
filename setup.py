@@ -42,7 +42,7 @@ def install():
         license='MIT',
         author='SuHun Han',
         author_email='ssut' '@' 'ssut.me',
-        url='https://github.com/ssut/py-googletrans',
+        url='https://github.com/sam-0706/py-googletrans-personal',
         classifiers=['Development Status :: 5 - Production/Stable',
                      'Intended Audience :: Education',
                      'Intended Audience :: End Users/Desktop',
